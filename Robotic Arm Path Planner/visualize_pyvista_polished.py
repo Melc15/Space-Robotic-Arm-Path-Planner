@@ -799,6 +799,7 @@ def main():
 
     plotter.add_axes(
         line_width=2,
+        viewport=(0.82, 0.82, 0.98, 0.98),
         color=TEXT,
         x_color="#FF7785",
         y_color="#55E6A5",
